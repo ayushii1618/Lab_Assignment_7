@@ -1,2 +1,3 @@
 # Lab_Assignment_7
-A Python-based machine learning project implementing Linear Regression, Logistic Regression, Decision Trees, K-Means Clustering, and Random Forest with data preprocessing and evaluation.
+
+This repository contains Python implementations of various machine learning techniques using scikit-learn. It covers both supervised and unsupervised learning algorithms, including Linear Regression, Logistic Regression, Decision Trees, K-Means Clustering, and Ensemble Methods like Random Forest. Each model is implemented step-by-step with data preprocessing, model training, evaluation metrics, and visualizations to demonstrate core ML concepts such as regression, classification, clustering, cross-validation, and feature importance. The assignment aims to provide a practical understanding of how different machine learning algorithms work, how they can be compared, and how to evaluate their performance effectively using Python.
